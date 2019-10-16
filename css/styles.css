@@ -11,16 +11,16 @@ header {
   font-size: 72px;
 }
 
-p.intro {
+p{
   font-size: 24px;
 }
-h2.intro {
+h2.{
   font-size: 36px;
 }
 h3 {
   font-size: 36px;
 }
-img.intro{
+img{
   margin-left: 30%;
 }
 
@@ -36,4 +36,8 @@ img.intro{
   margin: auto;
   padding: 25;
   background-color: #009999;
+}
+
+.special {
+  font-style: italic;
 }
