@@ -30,7 +30,7 @@ img{
   color: white;
   background-color: darkblue;
 }
-.main {
+.second {
   text-align: center;
   color: white;
   margin: auto;
@@ -40,4 +40,8 @@ img{
 
 .special {
   font-style: italic;
+}
+
+.withbox {
+    border: 5px solid white;
 }
